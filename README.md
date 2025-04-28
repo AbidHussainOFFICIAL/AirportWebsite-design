@@ -45,7 +45,7 @@ git clone https://github.com/AbidHussainOFFICIAL/AirportWebsite-design.git
 
 ### Contact
 
-For any queries, you can reach out via my [GitHub profile](https://www.twitter.com/codewithsadee).
+For any queries, you can reach out via my [GitHub profile](https://github.com/AbidHussainOFFICIAL).
 
 ### License
 
