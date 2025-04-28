@@ -1,17 +1,17 @@
 <div align="center">
-  
+
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fly)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fly?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/wWyv5dl0nFg?style=social)](https://youtu.be/wWyv5dl0nFg)
 
   <br />
   <br />
 
-  <h2 align="center">Fly - Flight Website</h2>
+  <h2 align="center">Fly - Flight Website Design</h2>
 
-  Fly is a fully responsive flight website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Fly is a fully responsive flight website design, <br /> optimized for all devices, built using HTML, CSS, and JavaScript. The design focuses on a modern, clean, and user-friendly interface.
 
   <a href="https://codewithsadee.github.io/fly/"><strong>➥ Live Demo</strong></a>
 
@@ -19,7 +19,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Fly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
@@ -31,12 +31,12 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Fly** locally, run this command on your git bash:
+To run **Fly** design locally, clone the repository with the following commands:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/fly.git
+git clone https://github.com/codewithsadee/fly.git
 ```
 
 Windows:
