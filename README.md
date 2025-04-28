@@ -1,19 +1,17 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/fly)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/fly?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/fly?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/wWyv5dl0nFg?style=social)](https://youtu.be/wWyv5dl0nFg)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/AbidHussainOFFICIAL/AirportWebsite-design)
+  ![GitHub stars](https://img.shields.io/github/stars/AbidHussainOFFICIAL/AirportWebsite-design?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/AbidHussainOFFICIAL/AirportWebsite-design?style=social)
 
   <br />
   <br />
 
-  <h2 align="center">Fly - Flight Website Design</h2>
+  <h2 align="center">Airport Website Design</h2>
 
-  Fly is a fully responsive flight website design, <br /> optimized for all devices, built using HTML, CSS, and JavaScript. The design focuses on a modern, clean, and user-friendly interface.
+  A fully responsive and modern airport website design optimized for all devices. Built with HTML, CSS, and JavaScript, this design focuses on a clean, intuitive, and user-friendly interface.
 
-  <a href="https://codewithsadee.github.io/fly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://abidhussainofficial.github.io/AirportWebsite-design/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -31,23 +29,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Fly** design locally, clone the repository with the following commands:
+To run the **Airport Website Design** locally, clone the repository with the following commands:
 
 Linux and macOS:
 
 ```bash
-git clone https://github.com/codewithsadee/fly.git
+git clone https://github.com/AbidHussainOFFICIAL/AirportWebsite-design.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fly.git
+git clone https://github.com/AbidHussainOFFICIAL/AirportWebsite-design.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+For any queries, you can reach out via my [GitHub profile](https://www.twitter.com/codewithsadee).
 
 ### License
 
